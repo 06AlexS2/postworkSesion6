@@ -4,6 +4,7 @@ INSERT INTO `biblioteca_digital`.`bibliotecario` (`idBibliotecario`, `password`,
 INSERT INTO `biblioteca_digital`.`bibliotecario` (`idBibliotecario`, `password`, `status`) VALUES ('15080740', '12345678', 'activo');
 INSERT INTO `biblioteca_digital`.`bibliotecario` (`idBibliotecario`, `password`, `status`) VALUES ('15080750', 'elmejor09', 'inactivo');
 
+
 INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ('978-84-7888-628-9', 'el principito', 'fabula', 'salamandra s.a.', '111', '06-04-1943', 'español');
 INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ('9788417047146', 'el gallo de oro y otros relatos', 'drama', 'rm verlag s.l.', '203', '01-04-2017', 'español');
 INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ('9788493442606', 'pedro páramo', 'drama', 'rm verlag s.l.', '132', '01-11-2005', 'español');
@@ -29,9 +30,36 @@ INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial
 INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ('9788445077535', 'el silmarillion', 'fantasía', 'minotauro', '448', '01-01-1901', 'inglés');
 INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ('9788445006498', 'los hijos de hurin', 'fantasía', 'minotauro', '304', '16-04-2007', 'inglés');
 INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ('9788445072974', 'roverandom', 'fantasía', 'minotauro', '118', '20-06-1998', 'inglés');
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788417617301","Kraut","Novelas graficas: historias reales y no ficción","Fulgencio Pimentel","216","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788418215315","No lo abras jamás","MITOS Y LEYENDAS NARRADOS COMO FICCIÓN","SATIBERRI EDICIONES","408","2021","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788408237969","Terra Alta","Ficción moderna y contemporanea","Booket","384","2021","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788401025167","Cómo evitar un desastre climático","Cambio climático","PLAZA & JANES","320","2021","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788427047372","Los Compas y la cámara del tiempo","Ficción e historias reales infantiles y juveniles","Ediciones Martínez Roca","224","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788466354653","Sidi","Aventura hístorica","DEBOLSILLO","376","2021","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788420460284","Gambito de dama","Ficción moderna y contemporanea","ALFAGUARA","320","2021","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788466351041","Sabotaje (Serie Falcó)","Ficción historica","DEBOLSILLO","376","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788413142449","Cicatriz","Narrativa romántica","B de Bolsillo (Ediciones B)","576","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788490667316","Patria","Ficción moderna y contemporanea","Maxi-Tusquets","656","2019","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788417216948","Matar a un ruiseñor","Ficción moderna y contemporanea","Harper Bolsillo","384","2021","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788467060287","Pasiones carnales: Los amores de los reyes que cambiaron la Historia de España","Historia de otras regiones","Espasa","400","2021","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788418526138","Biografía de la luz: Una lectura mística del evangelio","Ficción moderna y contemporanea","Galaxia Gutenberg","576","2021","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788490668481","El huerto de Emerson","Ficción moderna y contemporanea","Tusquets Editores","240","2021","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788417575892","Temporada de Rosas","Fútbol","ASTIBERRI EDICIONES","240","2021","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788418128394","Tres historias extravagantes","Ficción e historias reales infantiles y juveniles","Duomo ediciones","80","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788412080759","Un buen perro","Cuentos","BABULINKA BOOKS","36","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788424667573","Somos astronautas","Ficción e historias reales infantiles y juveniles","La galera","300","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788418187407","El libro de Gianni Rodari: Versos,cuentos y vida","Antologías infantil/juvenil","Blackie Books","392","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788418174353","El ickabog","Fantasía y realismo mágico (infantil/juvenil)","Salamandra Infantil y Juvenil","304","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788417742096","Pippi Calzaslargas","Relatos","Editorial Kókinos","144","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788417552886","Basil, el ratón superdetective","Ficción de crimen y misterio (infantil/juvenil)","Blackie Books","104","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788412091434","El zoo de las historias","Fantasía y realismo mágico (infantil/juvenil)","A Fin de Cuentos Editorial","56","2020","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788439725411","Cuando te envuelvan las llamas","Ficción moderna y contemporanea","LITERATURA RANDOM HOUSE","304","2015","Español");
+INSERT INTO `biblioteca_digital`.`libro` (`ISBN`, `titulo`, `genero`, `editorial`, `paginas`, `publicacion`, `idioma`) VALUES ("9788416748907","Me casé por alegría","Obras de teatro","Acantilado","128","2018","Español");
+
 
 INSERT INTO `biblioteca_digital`.`miembro` (`idMiembro`, `password`, `status`) VALUES ('200110', 'tomatesrojos', 'activo');
 INSERT INTO `biblioteca_digital`.`miembro` (`idMiembro`, `password`, `status`) VALUES ('200120', 'cuadradocircular', 'suspendido');
+
 
 INSERT INTO `biblioteca_digital`.`catalogo` (`idCatalogo`, `idMiembro`, `cantidadLibros`, `tituloLibro`, `autoresLibros`, `genero`, `fechasPublicacion`) VALUES ('10501', '200110', '2', 'el principito, el silmarillion', 'antoine de saint-exupéry, j.r.r. tolkien', 'fabula, fantasía', '06-04-1943, 01-01-1901');
 INSERT INTO `biblioteca_digital`.`catalogo` (`idCatalogo`, `idMiembro`, `cantidadLibros`, `tituloLibro`, `autoresLibros`, `genero`, `fechasPublicacion`) VALUES ('10502', '200120', '3', 'el conde de montecristo, hojas de hierba, estudio en escarlata', 'alexandre dumas, walt whitman, arthur conan doyle', 'novela, poesía, misterio', '04-06-1844, 04-07-1855, 18-11-1887');
