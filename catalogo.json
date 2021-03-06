@@ -1,0 +1,21 @@
+[{
+  "_id": 210101,
+  "miembros": [
+    150801
+  ],
+  "cantidad_libros": 1,
+  "titulo_libros": "El principito",
+  "autores_libros": [
+    "Antoine de Saint-Exupéry"
+  ],
+  "generos": [
+    "fabula"
+  ],
+  "fechas_publicacion": [
+    "06-04-1943"
+  ],
+  "categorias": [
+    "TI",
+    "Desarrollo de Software"
+  ]
+}]
